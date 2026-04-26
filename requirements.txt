@@ -1,0 +1,7 @@
+geopy==2.4.1
+ipysigma==0.24.6
+networkx==3.6.1
+pandas==3.0.2
+spacy==3.8.14
+tqdm
+pyarrow==24.0.0
