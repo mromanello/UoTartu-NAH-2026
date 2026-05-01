@@ -5,3 +5,8 @@ pandas==3.0.2
 spacy==3.8.14
 tqdm
 pyarrow==24.0.0
+requests
+beautifulsoup4
+matplotlib
+lxml
+https://github.com/distributed-text-services/validator/archive/refs/heads/main.zip
