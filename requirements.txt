@@ -3,10 +3,10 @@ ipysigma==0.24.6
 networkx==3.6.1
 pandas==3.0.2
 spacy==3.8.14
-tqdm
+tqdm==4.67.3
 pyarrow==24.0.0
-requests
-beautifulsoup4
-matplotlib
-lxml
+requests==2.33.1
+beautifulsoup4==4.14.3
+matplotlib==3.10.9
+lxml==6.1.0
 https://github.com/distributed-text-services/validator/archive/refs/heads/main.zip
